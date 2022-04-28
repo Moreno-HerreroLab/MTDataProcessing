@@ -2,7 +2,7 @@
 
 The scripts in this folder correspond to the publication:<br>
 
-**"APLF and long non-coding RNA NIHCOLE promote stable DNA synapsis in non-homologous end-joining"**<br>
+**"(...) promote stable DNA synapsis in non-homologous end-joining"**<br>
 Sara de Bragança, Clara Aicart-Ramos, Angel Rivera-Calzada, ..., Oscar Llorca, Fernando Moreno-Herrero<br>
 submitted 2022; DOI: [to be defined](link)
 
