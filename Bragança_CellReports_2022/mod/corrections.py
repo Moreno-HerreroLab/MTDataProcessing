@@ -3,9 +3,7 @@ import numpy as np
 import pandas as pd
 import os
 import shutil
-from mod.figparams import def_fig_parameters
 
-def_fig_parameters()
 
 def group_PAR(input_folder, PAR_results):
     """
