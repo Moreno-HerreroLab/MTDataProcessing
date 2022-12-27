@@ -1,4 +1,4 @@
-# Bragança et al. submitted 2022
+# De Bragança et al. Cell Reports 2023
 
 The scripts in this folder correspond to the publication:<br>
 
